@@ -7,8 +7,7 @@ class config:
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/W5KdnoO7C9I3YWE9"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "970734477250-41qhabf2jl1vvt87m84vedhd42ar77ku.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "PksD0J9IUN9luYLRdJAOy8w5
-
+    G_DRIVE_CLIENT_SECRET = "PksD0J9IUN9luYLRdJAOy8w5"
 
 class BotCommands:
   Download = ['download', 'dl']
